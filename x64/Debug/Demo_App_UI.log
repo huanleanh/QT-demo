@@ -1,0 +1,8 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Generate moc_predefs.h
+  Controller.cpp
+  main.cpp
+  ScanningProcess.cpp
+D:\Setups\qtdemo-master\qtdemo-master\ScanningProcess.h(1,10): fatal error C1083: Cannot open include file: 'qobject.h': No such file or directory (compiling source file ScanningProcess.cpp)
+D:\Setups\qtdemo-master\qtdemo-master\main.cpp(1,10): fatal error C1083: Cannot open include file: 'QQmlApplicationEngine': No such file or directory
+D:\Setups\qtdemo-master\qtdemo-master\Controller.h(1,10): fatal error C1083: Cannot open include file: 'qobject.h': No such file or directory (compiling source file Controller.cpp)
