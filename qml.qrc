@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>src/ic_memory_good.png</file>
+        <file>src/ic_jailbreak_good.png</file>
+        <file>src/ic_hardware_good.png</file>
+        <file>src/ic_free_storage_good.png</file>
+        <file>src/ic_encrypt_good.png</file>
+        <file>Menu.qml</file>
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>Page4.qml</file>
+        <file>Page5.qml</file>
+        <file>src/ic_launcher.png</file>
+        <file>src/ic_circle.png</file>
+        <file>src/ic_circle_2.png</file>
+        <file>src/ic_circle_3.png</file>
+        <file>Files.qml</file>
+        <file>Dashboard.qml</file>
+        <file>functions.js</file>
+        <file>variables.js</file>
+        <file>ScanningResultRight.qml</file>
+        <file>Menu_style_2.qml</file>
+        <file>main.cpp</file>
+        <file>ScanningResultLeft.qml</file>
+        <file>src/ic_os_update_bad.png</file>
+        <file>src/ic_memory_bad.png</file>
+        <file>src/ic_hardware_bad.png</file>
+        <file>src/ic_connection_bad.png</file>
+        <file>src/ic_battery_bad.png</file>
+        <file>src/ic_application_bad.png</file>
+        <file>src/ic_ad_tracking_bad.png</file>
+        <file>src/ic_password_lock_bad.png</file>
+        <file>Scanning.qml</file>
+        <file>BottomText.qml</file>
+        <file>Threats.qml</file>
+        <file>ScanningDetail.qml</file>
+    </qresource>
+</RCC>

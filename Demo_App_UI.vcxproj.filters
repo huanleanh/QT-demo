@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\src">
+      <UniqueIdentifier>{f770a056-2564-4155-aacc-648ffaf5b985}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ScanningProcess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BottomText.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Dashboard.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Files.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Menu.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Menu_style_2.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Page1.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Page2.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Page4.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Page5.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Scanning.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ScanningDetail.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ScanningResultLeft.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ScanningResultRight.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Threats.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Vietnamese.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="functions.js">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="main.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="qml.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="qtquickcontrols2.conf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="translations.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="variables.js">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="src\ic_password_lock_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_os_update_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_memory_good.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_memory_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_launcher.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_jailbreak_good.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_hardware_good.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_hardware_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_free_storage_good.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_encrypt_good.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_connection_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_circle_3.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_circle_2.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_circle.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_battery_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_application_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+    <None Include="src\ic_ad_tracking_bad.png">
+      <Filter>Resource Files\src</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Controller.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ScanningProcess.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+</Project>
